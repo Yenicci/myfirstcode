@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+div {
+    text-align: center;
+}
+img { 
+    margin-top: 150px;
+    cursor: pointer;
+}
+
+input {
+    height:27px;
+    width:250px;
+    border:3px solid mediumvioletred;
+    background-color: black ;
+    border-radius: 8px;
+    margin-top: 10px;
+    color:aliceblue;
+    text-align: center;
+}
